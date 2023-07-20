@@ -10,6 +10,8 @@ const array3 = document.querySelector(".array3");
 const array4 = document.querySelector(".array4");
 const array5 = document.querySelector(".array5");
 
+// 1 UZDUOTIS
+
 function letters(x) {
   if (x === 0) return "A";
   if (x === 1) return "B";
@@ -181,8 +183,6 @@ let six = [...d];
 let itemIndex = [];
 
 for (let i = 0; i < five.length; i++) {
-  
-
   itemIndex[five[i]] = six[i];
 }
 console.log(itemIndex);
