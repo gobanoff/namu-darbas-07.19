@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Michroma&display=swap");
+
+body {
+  font-size: 20px;
+  line-height: 30px;
+  font-family: "Michroma", serif;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.array {
+  color: red;
+}
+.array1 {
+  color: rgb(0, 26, 255);
+}
+.array2 {
+  color: rgb(31, 225, 6);
+  font-size: 16px;
+}
+.array3 {
+  color: rgb(6, 199, 189);
+  font-size: 16px;
+}
+.array4 {
+  color: rgb(199, 6, 151);
+  font-size: 20px;
+}
+
+.array5 {
+  color: rgb(199, 176, 6);
+  font-size: 20px;
+}
