@@ -181,7 +181,7 @@ let six = [...d];
 let itemIndex = [];
 
 for (let i = 0; i < five.length; i++) {
-  let index = five[i];
+  
 
   itemIndex[five[i]] = six[i];
 }
